@@ -1,5 +1,5 @@
 // ROM Testbench
-// Rakshith Suresh
+// Rakshith Suresh 15/08/2024
 
 module rom_tb;
   reg clk; //clk
