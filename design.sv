@@ -1,5 +1,5 @@
 // ROM module design
-// Rakshith Suresh 
+// Rakshith Suresh 15/08/2024
   
 module rom (
   input clk, //clk
